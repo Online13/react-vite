@@ -13,7 +13,7 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
+    "org": "rratiarivelo419362",
     "app": "react-vite"
   },
   "files": [
